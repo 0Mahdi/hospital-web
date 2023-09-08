@@ -1,0 +1,17 @@
+.article-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.article-content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+/* Add margin and padding to the card */
+.article-card {
+    margin: 20px; 
+    padding: 10px; 
+}

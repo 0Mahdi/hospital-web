@@ -1,0 +1,10 @@
+.cardImageStyle {
+    height: 300px; 
+    object-fit: cover;
+}
+.cardTextStyle {
+    color: #708090;
+}
+.cardTitleStyle {
+    color: #786868;
+}

@@ -1,0 +1,66 @@
+[
+    {
+      "key": 1,
+      "name": "Cardiology",
+      "img": "https://www.camc.org/sites/default/files/styles/800x600/public/2020-09/Cardiology_hero_0.jpg?itok=olV0f2r9",
+      "description": " Diagnosis and treatment of heart conditions, including heart surgeries and interventions.",
+      "details": "https://www.news-medical.net/health/Cardiology-What-is-Cardiology.aspx#:~:text=The%20term%20cardiology%20is%20derived,as%20coronary%20artery%20disease%20and",
+      "det_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Heart_diagram_blood_flow_en.svg/1200px-Heart_diagram_blood_flow_en.svg.png"
+    },
+    {
+      "key": 2,
+      "name": "Orthopedics",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmw4KDkK-lMj8YDMSFn539Pzd8Q3gkAbHG_g&usqp=CAU",
+      "description": "Specialized care for bone and joint disorders, including joint replacements.",
+      "details": "https://www.medicalnewstoday.com/articles/what-is-orthopedics#:~:text=Orthopedics%2C%20also%20known%20as%20orthopedic,joints",
+      "det_img": "https://www.coastalorthoteam.com/hs-fs/hubfs/sports_medicine_focal_points.jpg?width=1024&name=sports_medicine_focal_points.jpg"
+    },
+    {
+      "key": 3,
+      "name": "Neurology",
+      "img": "https://brentfurnishdc.com/wp-content/uploads/2017/10/qtq80-uqw0yB-1024x703-1024x585.jpeg",
+      "description": "Diagnosis and treatment of neurological disorders, such as stroke and epilepsy.",
+      "details": "https://www.urmc.rochester.edu/highland/departments-centers/neurology/what-is-a-neurologist.aspx#:~:text=Introduction%20to%20Neurology,the%20brain%20and%20spinal%20cord",
+      "det_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrhm6H95ua-sR5dTLggk7jdwn5a-WRdXGA7DhmshGqA&s"
+    },
+    {
+      "key": 4,
+      "name": "Oncology",
+      "img": "https://img.freepik.com/free-photo/3d-medical-background-with-virus-cells-dna-strand_1048-8470.jpg?q=10&h=200",
+      "description": "Comprehensive cancer care, including chemotherapy, radiation therapy, and surgical oncology.",
+      "details": "https://www.cancer.net/navigating-cancer-care/cancer-basics/cancer-care-team/types-oncologists#:~:text=Oncology%20is%20the%20study%20of,radiation%20oncology%2C%20and%20surgical%20oncology.",
+      "det_img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tumor_Mesothelioma2_legend.jpg"
+    },
+    {
+      "key": 5,
+      "name": "Gastroenterology:",
+      "img": "https://simonwilliamsonclinic.com/wp-content/uploads/GT-Page-Icon.png",
+      "description": "Treatment of digestive system disorders and diseases.",
+      "details": "https://gi.org/patients/gi-health-and-disease/what-is-a-gastroenterologist/#:~:text=What%20is%20Gastroenterology%3F,gallbladder%2C%20bile%20ducts%20and%20liver.",
+      "det_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Digestive_system_diagram_en.svg/220px-Digestive_system_diagram_en.svg.png"
+    },
+    {
+      "key": 6,
+      "name": "Pediatrics",
+      "img": "https://wakeforestpediatrics.com/wp-content/uploads/2020/10/Choosing-a-Pediatrician.jpeg",
+      "description": "Healthcare services for infants, children, and adolescents.",
+      "details": "https://en.wikipedia.org/wiki/Pediatrics",
+      "det_img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Newborn_Examination_1967.jpg"
+    },
+    {
+      "key": 7,
+      "name": "Obstetrics and Gynecology",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnzRf0tlLzH3ZQlJKEzYkr2e7dVSjGeW3tFA&usqp=CAU",
+      "description": "Care for women's health, including prenatal and postnatal care.",
+      "details": "https://en.wikipedia.org/wiki/Obstetrics_and_gynaecology#:~:text=Obstetrics%20and%20gynaecology%20(also%20spelled,the%20health%20of%20the%20female",
+      "det_img": "https://medical.rossu.edu/sites/g/files/krcnkv261/files/styles/atge_3_2_crop_md/public/2022-04/OBGYN.jpg?h=f9d06ff2&itok=oF3GKJtE"
+    },
+    {
+      "key": 8,
+      "name": "Dental Care",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeFd9FORxJ_6keFApekMNtcq5QTrM8IhDUg&usqp=CAU",
+      "description": " Oral healthcare services, including check-ups, cleanings, and oral surgeries.",
+      "details": "https://medlineplus.gov/ency/article/001957.htm",
+      "det_img": "https://static.wixstatic.com/media/bdc287_fe84a828753a411ba0a551c96b4d1ee1~mv2.jpg/v1/fit/w_2500,h_1330,al_c/bdc287_fe84a828753a411ba0a551c96b4d1ee1~mv2.jpg"
+    }
+  ]
